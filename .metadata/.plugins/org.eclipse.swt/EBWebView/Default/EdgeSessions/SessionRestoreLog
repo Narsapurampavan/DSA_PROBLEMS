@@ -1,3 +1,0 @@
-{"logTime": "0904/045111", "session": "START"}
-{"logTime": "0904/045111", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
-{"logTime": "0904/045120", "session": "END"}
