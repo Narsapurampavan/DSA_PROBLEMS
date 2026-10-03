@@ -23,8 +23,6 @@ public class TwoSum {
 
         }
 
-        System.out.println("No Pair is Found ");
-
-
+        System.out.println("No Pair is Found ");  
     }
 }
